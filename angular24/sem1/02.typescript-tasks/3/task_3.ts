@@ -1,0 +1,14 @@
+/*
+ * OK this one is super tricky :)
+ * if you didn't pay attention during the lecture
+ *
+ */
+let name;
+
+export {}
+
+/**
+ * Dont change anything below this line
+ */
+name = 'Chrystian';
+console.log('Hello ' + name + ', your favorite number is ');
